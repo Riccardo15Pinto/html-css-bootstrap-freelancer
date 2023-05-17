@@ -1,5 +1,6 @@
 /* generics */
-header{
+header,
+footer{
     background-color: #2C3E50;
 }
 
@@ -10,10 +11,13 @@ a{
 
 /* main */
 
-/* jumbotron */
-
 .jumbotron,
 .About{
     background-color: #1ABC9C;
 }
+
+.info{
+    background-color: #3A546D;
+}
+
     
