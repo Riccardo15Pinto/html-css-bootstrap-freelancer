@@ -13,17 +13,11 @@ a{
     color: white;
 }
 
-section{
-    min-height: 300px;
-}
-
 /* main */
 
 /* jumbotron */
 
-
-
 .jumbotron{
     background-color: #1ABC9C;
-    
 }
+    
