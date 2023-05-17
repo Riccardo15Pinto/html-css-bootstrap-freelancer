@@ -1,7 +1,29 @@
+/* generics */
+
+body{
+    color: white;
+}
+
 header{
-    background-color: aqua;
+    background-color: #2C3E50;
 }
 
 a{
     text-decoration: none;
+    color: white;
+}
+
+section{
+    min-height: 300px;
+}
+
+/* main */
+
+/* jumbotron */
+
+
+
+.jumbotron{
+    background-color: #1ABC9C;
+    
 }
