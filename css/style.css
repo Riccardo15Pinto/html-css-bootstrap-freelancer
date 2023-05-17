@@ -12,7 +12,8 @@ a{
 
 /* jumbotron */
 
-.jumbotron{
+.jumbotron,
+.About{
     background-color: #1ABC9C;
 }
     
