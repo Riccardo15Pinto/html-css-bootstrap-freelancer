@@ -1,4 +1,8 @@
 /* generics */
+body{
+    color: white;
+}
+
 header,
 footer{
     background-color: #2C3E50;
@@ -32,3 +36,19 @@ a{
     margin: 0 auto;
     padding: 20px;
 }
+
+.Portfolio,
+.contact-me{
+    color:  #2C3E50;
+}
+
+footer a{
+    color: #1ABC9C;
+}
+
+header .navbar .container-fluid a{
+    color: white;
+}
+
+
+
