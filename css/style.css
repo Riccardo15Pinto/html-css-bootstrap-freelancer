@@ -13,6 +13,16 @@ a{
     color: white;
 }
 
+/* header */
+
+header .navbar .container-fluid a{
+    color: white;
+}
+
+header .navbar .navbar-toggler{
+    filter: invert(1);
+}
+
 /* main */
 
 .jumbotron,
@@ -24,6 +34,20 @@ a{
     background-color: #3A546D;
 }
 
+.jumbotron .container-jumbo-image{
+    max-width: 40%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.icon-star > div {
+    height: 0;
+}
+    
+.fa-star{
+    margin: 0 10px;
+}
+
 .circle-icon{
     width: 30px;
     height: 30px;
@@ -31,24 +55,15 @@ a{
     margin: 0 5px;
 }
     
-.jumbotron .container-jumbo-image{
-    max-width: 40%;
-    margin: 0 auto;
-    padding: 20px;
-}
 
 .Portfolio,
 .contact-me{
     color:  #2C3E50;
 }
 
+/* footer */
+
 footer a{
     color: #1ABC9C;
 }
-
-header .navbar .container-fluid a{
-    color: white;
-}
-
-
 
